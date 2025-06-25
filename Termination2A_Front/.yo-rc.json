@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.15.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "termination-2-a-front",
+    "libraryId": "b167b98b-c971-4b09-9d27-483b02486a12",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "TERMINATION2A_FRONT",
+    "solutionShortDescription": "TERMINATION2A_FRONT description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

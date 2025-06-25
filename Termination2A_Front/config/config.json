@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "termination-2-a-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/termination2A/Termination2AWebPart.js",
+          "manifest": "./src/webparts/termination2A/Termination2AWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "Termination2AWebPartStrings": "lib/webparts/termination2A/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "termination-2-a-front-client-side-solution",
+    "id": "b167b98b-c971-4b09-9d27-483b02486a12",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "TERMINATION2A_FRONT description"
+      },
+      "longDescription": {
+        "default": "TERMINATION2A_FRONT description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "termination-2-a-front Feature",
+        "description": "The feature that activates elements of the termination-2-a-front solution.",
+        "id": "1626ec5c-ca18-4c2d-a9d0-fdb0b8033125",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/termination-2-a-front.sppkg"
+  }
+}
